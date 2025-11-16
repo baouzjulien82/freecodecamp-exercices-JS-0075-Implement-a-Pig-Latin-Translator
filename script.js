@@ -14,7 +14,6 @@ function translatePigLatin(string) {
       wordToReturn = string + "ay"; // cas sans voyelle
     }
   }
-
   console.log(wordToReturn);
   return wordToReturn;
 }
